@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mon petit bout d&#39;internet</title>
-    <link>https://sfer974.github.io/posts/</link>
+    <link>https://sfer974.github.io/mpbw/posts/</link>
     <description>Recent content in Posts on Mon petit bout d&#39;internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Oct 2019 16:14:03 +0200</lastBuildDate>
     
-	<atom:link href="https://sfer974.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfer974.github.io/mpbw/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Déjeuner chez les Arlots</title>
-      <link>https://sfer974.github.io/posts/my-first-post/</link>
+      <link>https://sfer974.github.io/mpbw/posts/my-first-post/</link>
       <pubDate>Wed, 16 Oct 2019 16:14:03 +0200</pubDate>
       
-      <guid>https://sfer974.github.io/posts/my-first-post/</guid>
+      <guid>https://sfer974.github.io/mpbw/posts/my-first-post/</guid>
       <description>Non loin de gare du nord se trouve un charmant petit bistrot où l&amp;rsquo;on y déjeune fort bien. une formule avec entrée, plat et dessert pour 23€.
 Nos amis les végétariens sont bien traités.
 Les vins y sont excellents.
@@ -25,10 +25,10 @@ A ne pas manquer si vous êtes dans le coin et que vous avez reservé. :speak_no
     
     <item>
       <title>Mon Second Post</title>
-      <link>https://sfer974.github.io/posts/my-second-post/</link>
+      <link>https://sfer974.github.io/mpbw/posts/my-second-post/</link>
       <pubDate>Tue, 15 Oct 2019 16:19:50 +0200</pubDate>
       
-      <guid>https://sfer974.github.io/posts/my-second-post/</guid>
+      <guid>https://sfer974.github.io/mpbw/posts/my-second-post/</guid>
       <description>h1 un titre 13 questions factuelles demandant une note de 1 à 5 (1 = Pas du tout et 5 = Absolument) afin de factualiser par la mesure ce que les équipes pensent de leur management : Sais-tu exactement ce qu’on attend de toi sur la mission ? Apprécies-tu ce que tu fais sur la mission ? As-tu le sentiment d’avoir l’aide dont tu as besoin de la part du management ?</description>
     </item>
     
