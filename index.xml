@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mon petit bout d&#39;internet</title>
-    <link>https://sfer974.github.io/</link>
+    <link>https://sfer974.github.io/mpbw/</link>
     <description>Recent content on Mon petit bout d&#39;internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sfer974.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfer974.github.io/mpbw/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
