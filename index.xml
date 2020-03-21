@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 22:26:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 00:32:06 +0100</lastBuildDate>
     
 	<atom:link href="https://sfer974.github.io/mpbw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Veille Techno</title>
+      <link>https://sfer974.github.io/mpbw/posts/veille-techno/</link>
+      <pubDate>Sun, 22 Mar 2020 00:32:06 +0100</pubDate>
+      
+      <guid>https://sfer974.github.io/mpbw/posts/veille-techno/</guid>
+      <description>Disposable Infrastructure What is “Disposable Infrastructure” also known as “Immutable Infrastructure”; Disposable Infrastructure is the process of “Automating the process of provisioning, configuring, deploying, and tearing down cloud infrastructure and services.”; whether you are dealing with development, staging, production, QA environments.</description>
+    </item>
     
     <item>
       <title>Lessive maison</title>
