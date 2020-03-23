@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 15:23:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 16:15:52 +0100</lastBuildDate>
     
 	<atom:link href="https://sfer974.github.io/mpbw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pate à choux</title>
+      <link>https://sfer974.github.io/mpbw/posts/pate_a_choux/</link>
+      <pubDate>Mon, 23 Mar 2020 16:15:52 +0100</pubDate>
+      
+      <guid>https://sfer974.github.io/mpbw/posts/pate_a_choux/</guid>
+      <description>Ingrédients :
+ 100g de lait 50g de farine 1 gousse de vanille 1 gros oeuf 50g de beurre  1️⃣ Ouvrez 1 gousse de vanille en deux et, avec la pointe d’un couteau, récupérez les petites graines noires qui s’y trouvent.
+NB : cela marchera très bien sans la vanille si vous n&amp;rsquo;en n&amp;rsquo;avez pas, ou vous pouvez choisir une autre épice qui vous plaise et dont vous disposez #restezchezvous, de mon côté j&amp;rsquo;aime beaucoup l&amp;rsquo;anis vert, la tonka ou une feuille de mandarine infusée.</description>
+    </item>
     
     <item>
       <title>Seance_cardio</title>
@@ -67,16 +78,6 @@ B: BEGINNER, I: INTERMEDIATE, A : ADVANCE
     </item>
     
     <item>
-      <title>Match Bruge-PSG</title>
-      <link>https://sfer974.github.io/mpbw/posts/2019-10-22/</link>
-      <pubDate>Wed, 23 Oct 2019 14:51:25 +0200</pubDate>
-      
-      <guid>https://sfer974.github.io/mpbw/posts/2019-10-22/</guid>
-      <description>Petite soirée sympa à regarder le match Bruge-PSG&amp;rdquo; Hier petite soirée sympa aux diable de lombard à regarder le match de la ligue des champions Bruge-PSG.
-Et pour une fois le PSG à gagné !!!!</description>
-    </item>
-    
-    <item>
       <title>Déjeuner chez les Arlots</title>
       <link>https://sfer974.github.io/mpbw/posts/my-first-post/</link>
       <pubDate>Wed, 16 Oct 2019 16:14:03 +0200</pubDate>
@@ -86,15 +87,6 @@ Et pour une fois le PSG à gagné !!!!</description>
 Nos amis les végétariens sont bien traités.
 Les vins y sont excellents.
 A ne pas manquer si vous êtes dans le coin et que vous avez reservé. 🙊</description>
-    </item>
-    
-    <item>
-      <title>Mon Second Post</title>
-      <link>https://sfer974.github.io/mpbw/posts/my-second-post/</link>
-      <pubDate>Tue, 15 Oct 2019 16:19:50 +0200</pubDate>
-      
-      <guid>https://sfer974.github.io/mpbw/posts/my-second-post/</guid>
-      <description>h1 un titre 13 questions factuelles demandant une note de 1 à 5 (1 = Pas du tout et 5 = Absolument) afin de factualiser par la mesure ce que les équipes pensent de leur management : Sais-tu exactement ce qu’on attend de toi sur la mission ? Apprécies-tu ce que tu fais sur la mission ? As-tu le sentiment d’avoir l’aide dont tu as besoin de la part du management ?</description>
     </item>
     
   </channel>
