@@ -5,11 +5,30 @@
     <link>https://sfer974.github.io/mpbw/categories/</link>
     <description>Recent content in Categories on Mon petit bout d&#39;internet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <language>fr-fr</language>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 00:03:39 +0200</lastBuildDate>
     
 	<atom:link href="https://sfer974.github.io/mpbw/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recette</title>
+      <link>https://sfer974.github.io/mpbw/categories/recette/</link>
+      <pubDate>Thu, 13 Aug 2020 00:03:39 +0200</pubDate>
+      
+      <guid>https://sfer974.github.io/mpbw/categories/recette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://sfer974.github.io/mpbw/categories/golang/</link>
+      <pubDate>Wed, 25 Mar 2020 09:50:15 +0100</pubDate>
+      
+      <guid>https://sfer974.github.io/mpbw/categories/golang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

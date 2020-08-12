@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Mon petit bout d&#39;internet</title>
+    <link>https://sfer974.github.io/mpbw/tags/go/</link>
+    <description>Recent content in go on Mon petit bout d&#39;internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>titi</copyright>
+    <lastBuildDate>Wed, 25 Mar 2020 09:50:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://sfer974.github.io/mpbw/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cake citron</title>
+      <link>https://sfer974.github.io/mpbw/posts/cake_citron/</link>
+      <pubDate>Wed, 25 Mar 2020 09:50:15 +0100</pubDate>
+      
+      <guid>https://sfer974.github.io/mpbw/posts/cake_citron/</guid>
+      <description>Ingrédients
+Appareil
+  155gr de sucre
+  100gr d’œufs entiers
+  2 citrons jaunes en zeste
+  70gr de crème liquide
+  120gr de farine tamisée
+  2gr de levure chimique
+  40 gr d’huile d’olives tiède
+  Sirop citron
+  300gr de jus de citron</description>
+    </item>
+    
+  </channel>
+</rss>

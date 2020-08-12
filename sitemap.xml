@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sfer974.github.io/mpbw/</loc>
-    <lastmod>2020-03-25T18:41:01+01:00</lastmod>
+    <loc>https://sfer974.github.io/mpbw/categories/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfer974.github.io/mpbw/posts/mousse_choco/</loc>
-    <lastmod>2020-03-25T18:41:01+01:00</lastmod>
+    <loc>https://sfer974.github.io/mpbw/tags/dessert/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/posts/dorayaki/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/tags/japonais/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sfer974.github.io/mpbw/posts/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/categories/recette/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/tags/</loc>
+    <lastmod>2020-08-13T00:03:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/posts/chouquettes/</loc>
+    <lastmod>2020-03-30T14:51:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/posts/mousse_choco/</loc>
     <lastmod>2020-03-25T18:41:01+01:00</lastmod>
   </url>
   
@@ -29,6 +64,26 @@
   
   <url>
     <loc>https://sfer974.github.io/mpbw/posts/cake_citron/</loc>
+    <lastmod>2020-03-25T09:50:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/tags/development/</loc>
+    <lastmod>2020-03-25T09:50:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/tags/golang/</loc>
+    <lastmod>2020-03-25T09:50:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/categories/golang/</loc>
+    <lastmod>2020-03-25T09:50:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfer974.github.io/mpbw/tags/hugo/</loc>
     <lastmod>2020-03-25T09:50:15+01:00</lastmod>
   </url>
   
@@ -65,19 +120,6 @@
   <url>
     <loc>https://sfer974.github.io/mpbw/posts/mon-assouplissant/</loc>
     <lastmod>2020-03-21T19:33:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfer974.github.io/mpbw/posts/my-first-post/</loc>
-    <lastmod>2019-10-16T16:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfer974.github.io/mpbw/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sfer974.github.io/mpbw/tags/</loc>
   </url>
   
 </urlset>
